@@ -11,7 +11,7 @@ There are multiple statuses that a member can change to: 
 
 -   Terminated
 
--   Withdrawn\
+-   Withdrawn
 
 There are more statuses, as seen in the CIMS manual . The ones above are the most common. 
 
@@ -87,8 +87,8 @@ When someone reaches out to you about withdrawing OR they withdraw without reach
 
     -   If time is a concern: Inactive Status
 
-    -   If money is a concern: Meeting with Laura (Finance Advisor) and VP Finance 
+    -   If money is a concern: Meeting with the Finance Advisor and VP Finance 
 
     -   Long term emergency circumstances: emergency alumna
 
-    -   If there is an extenuating circumstance, loop Pres and Dana (Advisor) in 
+    -   If there is an extenuating circumstance, loop Pres. and Admin Advisor in 
