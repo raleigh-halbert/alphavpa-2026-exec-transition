@@ -31,7 +31,7 @@ format: html
 
 -   Come up with inactive email scripts etc. 
 
--   This is optional but I learned throughout my time that understanding what is in these documents (not necessary to memorize it) makes it easier to answer questions that you’re unsure about before you ask Dana (Advisor) or Ana (Pres) 
+-   This is optional but I learned throughout my time that understanding what is in these documents (not necessary to memorize it) makes it easier to answer questions that you’re unsure about before you ask Advisor or Pres. 
 
     -   Look through the:
 
