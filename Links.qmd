@@ -1,0 +1,17 @@
+---
+title: "Other Links"
+format: html
+---
+
+Other (Embedded) Links:
+
+- [Disaffiliation Script](Disaffiliation_Script.qmd)
+
+- [Inactive Example Email](Inactive_Email_Example.qmd)
+
+- [Butterfield Bulletin | Newsletter](Butterfield_Bulletin.qmd)
+
+- [Bylaws: Excused Outlined](Bylaws_Excuses.qmd)
+
+- [Fine Outlines](Fine_Outlines.qmd)
+

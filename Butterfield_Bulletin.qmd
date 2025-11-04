@@ -1,0 +1,8 @@
+---
+title: "Butterfield Bulletin"
+format: html
+---
+
+[Canva Public View Link](https://www.canva.com/design/DAG08H1NLDE/ovovqqPhuo0soCSb7H_tBg/view?utm_content=DAG08H1NLDE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd09743f186)
+
+![Example of the Formatting](images/butterfield.png)

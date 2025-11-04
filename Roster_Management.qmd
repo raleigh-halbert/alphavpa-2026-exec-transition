@@ -1,0 +1,37 @@
+---
+title: "Roster Management"
+format: html
+---
+
+There are a couple rosters that will be helpful to maintain. The most important roster is the official one that is found in MyAlphaGam. This will be updated automatically after CIMS cases, although it can take a couple days. The only other time you need to update it is when there are different status changes as outlined in the Change in Membership Status section. 
+
+You can use the MyAlphaGam roster as the most accurate and updated roster of the whole chapter (UNLESS you just had a CIMS case, in which that person may still be listed). It is exportable to excel, which is where I do any editing (such as parsing first and last names, reordering) before I copy and paste into google sheet.
+
+\
+I recommend keeping the following rosters: 
+
+-   [General Roster](https://docs.google.com/spreadsheets/u/2/d/1s7Q_S8Ht-ozZDuYvjtkq1BoRYAz-0UPO6jWHjIPRJr8/edit)
+
+    -   Actives page
+
+    -   Inactive page
+
+    -   Abroad page
+
+    -   Totals on all pages
+
+-   Actives only roster
+
+-   Roster with all members and their MCs
+
+-   Attendance roster: up to you how you do attendance records! For more see the [attendance section](https://docs.google.com/document/d/11bxnobmjtCDJVBwjfv-xIVjdLSBWeg1klrqL3rdfGsA/edit?tab=t.0#heading=h.c3t9dcogm050)\
+
+You might also want a roster with only seniors, and/or a roster with the classes of everyone. \
+
+At the end of the day, it is up to you which rosters you keep, but the above was what was helpful to me, especially when another EC member had a question related to our roster(s).\
+
+You must keep the relevant information, regardless of how you choose to track it: 
+
+-   Peoples statuses (inactive vs. active vs. abroad)
+
+-   Attendance Records

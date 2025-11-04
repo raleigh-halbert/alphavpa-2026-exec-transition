@@ -1,0 +1,36 @@
+---
+title: "Inactive Email Example"
+format: html
+---
+
+Here is an example template of the email that I send when I reach out to people with inactive status paperwork:
+
+Hi {NAME}
+
+I have attached the pdf that you need to fill out and send back to me in order to go inactive. I also ask that you write me a short paragraph describing your reasoning for wanting to do so. Sometimes the formatting can get screwed up on the PDF, feel free to send the paragraph in the body of the email that you attach the document to.
+
+This will be read aloud at the next EC meeting before we vote on your status. It is not a guarantee that you will be approved to go inactive, but the information shared during the voting process will remain confidential.
+
+A few reminders:
+
+-   Inactive status is not retroactive, you must continue to attend any mandatory events until your status is officially confirmed by EC
+
+-   If you are recruiting next semester you must attend RTS
+
+    -   If you haven't recruited before you must attend all RTS sessions, including MC '25 sessions
+
+    -   If you have recruited before, you only need to attend RTS sessions that are held for all recruiters
+
+-   You are still responsible for paying dues on time throughout the year
+
+-   If approved, your inactive dues will not cover date night(s) or formal, if you choose to go you will have to pay for these separately
+
+-   Inactive status is only for the rest of the fall semester and is only being granted for the Fall 2025 semester
+
+The next meeting of EC will be on Sunday, September 28th. Please do your best to get these papers to me by tonight. Feel free to text me if you have any questions or concerns!
+
+Best,
+
+{Name}
+
+\^I recommend that you change the template to suit you/your tone.

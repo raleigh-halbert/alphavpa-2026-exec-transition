@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+editor: visual
+
+website:
+  navbar:
+    logo: agd_logo.png
+    left:
+      - href: index.qmd
+        text: Resources
+      - href: Change_in_Membership_Status.qmd
+        text: Change in Membership Status
+      - href: Inactive_Status.qmd
+        text: Inactive Status
+      - href: Roster_Management.qmd
+        text: Roster Management
+      - href: Excuses_and_Attendance_Records.qmd
+        text: Excuses & Attendance Records
+      - href: EC_Meetings.qmd
+        text: EC Meetings
+      - href: Directors_and_Newsletter.qmd
+        text: Directors & Newsletter
+      - href: Miscellaneous.qmd
+        text: Miscellaneous 
+      - href: Things_to_do_over_Winter_Break.qmd
+        text: Winter Break Tasks 
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    css: styles.css

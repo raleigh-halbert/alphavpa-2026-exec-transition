@@ -1,0 +1,245 @@
+/* --- Fonts & brand colors --- */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body { 
+  font-family: 'Playfair Display', serif; 
+  font-size: 16px;
+  color: #222; 
+  line-height: 1.6; 
+}
+
+/* Brand red for headings; highlight red on hover */ 
+h1, h2, h3, h4, h5 { 
+  color: #8E1818; 
+} 
+
+a, a:visited { 
+  color: #8E1818; 
+} 
+
+a:hover { 
+  color: #A7192E; 
+} 
+
+
+/* === LEFT SIDEBAR NAVBAR (vertical) === */ 
+.navbar { 
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  height: 100vh;               /* full height */ 
+  width: 280px;                /* sidebar width */ 
+  background: #8E1818 !important; /* brand red */ 
+  padding-top: 1rem; 
+  z-index: 1030;               /* stay above content */ 
+  border-right: 1px solid rgba(255,255,255,0.15); 
+} 
+
+/* Move all navbar inner content into a vertical column */ 
+.navbar .container-fluid { 
+  display: flex !important; 
+  flex-direction: column !important; 
+  align-items: stretch !important; 
+  gap: .5rem; 
+} 
+
+/* Make the collapsible nav fill and stack links vertically */ 
+.navbar-collapse { 
+  display: block !important;        /* don't keep it collapsed on desktop */ 
+  width: 100%; 
+} 
+
+.navbar-nav { 
+  display: flex; 
+  flex-direction: column !important; 
+  align-items: flex-start !important; 
+  gap: .25rem; 
+  margin: 0 !important; 
+  padding: 0 .5rem; 
+} 
+
+/* Brand/title at top */ 
+.navbar .navbar-brand { 
+  color: #fff !important; 
+  font-weight: 700; 
+  margin: 0 .5rem .25rem; 
+} 
+
+/* Keep brand clickable and above the nav links */ 
+.navbar .navbar-brand { 
+  position: relative; 
+  z-index: 2; 
+  pointer-events: auto; 
+} 
+
+/* Put the nav list behind the brand so clicks don't pass through */ 
+.navbar-nav { 
+  position: relative; 
+  z-index: 1; 
+} 
+
+/* Links: force white, remove underline; change color on hover/active */ 
+.navbar .nav-link, 
+.navbar .nav-link:visited { 
+  color: #ffffff !important; 
+  font-weight: 600; 
+  text-decoration: none !important; 
+  padding: .35rem .5rem; 
+  border-radius: .375rem; 
+  width: 100%; 
+  text-align: left; 
+} 
+
+.navbar .nav-link:hover, 
+.navbar .nav-link:focus, 
+.navbar .nav-link.active { 
+  color: #fff !important;          /* hover/active color */ 
+  background: rgba(255,255,255,0.10); /* subtle highlight */ 
+  text-decoration: none !important; 
+} 
+
+/* Logo (override Bootstrap’s tiny max-height) */ 
+.navbar .navbar-brand img { 
+  max-height: none !important; 
+  width: 100%;                    /* bump to 95–100% if you want larger */ 
+  height: auto; 
+  display: block; 
+  margin: 1.5rem auto 2rem; 
+  transition: transform .3s ease; 
+} 
+
+.navbar .navbar-brand img:hover { 
+  transform: scale(1.08); 
+} 
+
+/* Brand area */ 
+.navbar .navbar-brand { 
+  color: #fff !important; 
+  font-weight: 700; 
+  text-align: center; 
+  width: 100%; 
+  padding: 0; 
+} 
+
+/* Links */ 
+.navbar-nav { 
+  display: flex; 
+  flex-direction: column; 
+  align-items: flex-start; 
+  width: 100%; 
+  padding-left: 1.5rem; 
+  margin-top: 1rem; 
+} 
+
+.navbar .nav-link, 
+.navbar .nav-link:visited { 
+  color: #fff !important; 
+  font-weight: 600; 
+  text-decoration: none !important; 
+  padding: .4rem 0; 
+  width: 100%; 
+  text-align: left; 
+  border-radius: .3rem; 
+} 
+
+.navbar .nav-link:hover, 
+.navbar .nav-link:focus, 
+.navbar .nav-link.active { 
+  color: #fff !important; 
+  background: #A7192E !important; 
+  text-decoration: none !important; 
+} 
+
+/* Icons */ 
+.navbar .quarto-navbar-tools .bi, 
+.navbar .navbar-toggler { 
+  color: #fff !important; 
+}
+
+
+/* === SIMPLE SIDEBAR FIX === */
+body {
+  margin-left: 280px;   /* same as .navbar width */
+}
+
+@media (max-width: 991px) {
+  body {
+    margin-left: 0;     /* normal layout on mobile */
+  }
+}
+
+/* Keep the sidebar scrollable so the search isn’t clipped */
+.navbar {
+  overflow-y: auto;
+}
+
+/* Let the link list scroll and reserve space for the tools/search */
+@media (min-width: 992px) {
+  .navbar-collapse {
+    max-height: calc(100vh - 180px); /* adjust if your logo is taller */
+    overflow-y: auto;
+  }
+}
+
+/* Pin Quarto’s tools/search to the bottom so it stays visible */
+.navbar .quarto-navbar-tools {
+  margin-top: auto;
+  padding: 0.75rem 1rem;
+  position: sticky;
+  bottom: 0;
+  background: #8E1818; /* match your brand red */
+  z-index: 2;
+}
+
+/* Move logo down slightly so it's not hugging the top */
+.navbar .navbar-brand img {
+  margin-top: 5rem;      /* adjust down — increase if still too high */
+  margin-bottom: 0rem;   /* keeps breathing room below */
+}
+
+/* If you want a bit of padding above the entire navbar content too */
+.navbar {
+  padding-top: 0.5rem;   /* reduce from 1rem to tighten the top space */
+}
+
+/* === Fix: only the selected "On this page" link turns red === */
+#TOC .nav-link {
+  color: #222 !important;           /* normal text color */
+  font-weight: normal;
+}
+
+#TOC .nav-link:hover {
+  color: #A7192E !important;        /* darker red on hover */
+}
+
+#TOC .nav-link.active {
+  color: #8E1818 !important;        /* brand red only for active one */
+  font-weight: 700;                 /* bold the current section */
+}
+
+/* Change the accent line color for the active one */
+#TOC .nav-link.active::before {
+  background-color: #8E1818 !important;
+}
+
+/* === Active TOC link: red text + light red background highlight === */
+#TOC .nav-link.active {
+  color: #8E1818 !important;           /* brand red text */
+  font-weight: 700;
+  border-left: 2px solid #8E1818 !important;  /* red bar */
+  background-color: #f4d6d6 !important; /* soft red highlight */
+  border-radius: 4px;                   /* smooth edges */
+  padding-left: 0.5rem;                 /* keeps text from touching bar */
+}
+
+/* Normal + hover states remain clean */
+#TOC .nav-link {
+  border-left: 1.5px solid transparent !important;
+  color: #222 !important;
+  background: transparent !important;
+}
+
+#TOC .nav-link:hover {
+  color: #A7192E !important;            /* darker red on hover */
+  background-color: rgba(167,25,46,0.1); /* faint hover tint */
+}

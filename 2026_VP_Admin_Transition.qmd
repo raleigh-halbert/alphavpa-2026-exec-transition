@@ -1,0 +1,16 @@
+---
+title: "2026 VP Administration Transition"
+---
+
+## 2026 VP Administration Transition
+
+### Resources
+
+-   [Change in Membership Status](Change_in_Membership_Status.qmd)
+-   [Inactive Status](Inactive_Status.qmd)
+-   [Roster Management](Roster_Management.qmd)
+-   [Excuses & Attendance Records](Excuses_and_Attendance_Records.qmd)
+-   [EC Meetings](EC_Meetings.qmd)
+-   [Directors & Newsletter](Directors_and_Newsletter.qmd)
+-   [Miscellaneous](Miscellaneous.qmd)
+-   [Winter Break Tasks](Things_to_do_over_Winter_Break.qmd)

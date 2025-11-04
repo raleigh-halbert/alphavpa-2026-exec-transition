@@ -1,0 +1,8 @@
+---
+title: "Disaffiliation Script"
+format: html
+---
+
+In order to disaffiliate, you would need to go to MyAlphaGam and fill out a CIMS form. I believe this is under the "general resources" drop down. From there, you will have to confirm that you want to withdraw, and then wait for 72 hours in a "cooling off period" and re-approve your decision. From there, I can approve your withdrawal.
+
+\^You should change this to be more like your tone

@@ -1,0 +1,94 @@
+---
+title: "Change in Membership Status"
+format: html
+---
+
+Change in Membership Status is when someone wants to change their membership in the chapter. The default status is “Initiate” when the member is initiated or “New Member” if they haven’t been initiated. Most CIMS cases deal with the OFFICIAL roster in MyAlphaGam, although each has its own rules as outlined in the CIMS Manual.\
+
+There are multiple statuses that a member can change to: 
+
+-   Alumna
+
+-   Terminated
+
+-   Withdrawn\
+
+There are more statuses, as seen in the CIMS manual . The ones above are the most common. 
+
+Review the manual for more details on these statuses: 
+
+-   Dismissal
+
+-   Expulsion
+
+-   Alumna Emergency Circumstances
+
+## Alumna Status
+
+Alumna is often used when people graduate from the chapter. There are some instances where people can go on an “emergency alumna” when they are away from school.
+
+What to know about Alumna: 
+
+-   It is called Alumnae in the handbooks so that's what you need to search if you control F
+
+-   Seniors are alumna after graduation
+
+-   Alumna for graduation and emergency purposes is executed on Admin’s end in MyAlphaGam
+
+    -   Go to the roster
+
+    -   Find the person's name
+
+    -   Click the three dots at the end of their name tile
+
+    -   Click “Update Contact’s Status”
+
+    -   Click the drop down (“Select Status”) \> select “Alumna”
+
+    The process for changing a member to an Alumna is the same process for changing them to other statuses as well, as seen in the “Select Status” drop-down on the “Update Contact’s Status” page
+
+## Terminated and Withdrawn Status
+
+Terminated is often used when New Members choose to leave the chapter before they’re initiated. \
+
+Withdrawn is used when Initiates choose to leave the chapter, any time after they’re initiated. 
+
+Withdrawn and Terminated (Voluntary)  members must choose to leave the chapter on their own through MyAlphaGam. \
+
+[Here is a rough script of what I say](Disaffiliation_Script.qmd)
+
+In order to be removed from the roster: 
+
+-   The member must fill out the original form
+
+-   The member must reaffirm their decision. I think this form is sent in an email but done in MyAlphaGam although I am not 100% sure
+
+    -   People always told me they received an automated email roughly 72 hours after the first time they submitted the CIMS form
+
+-   They must pay all of the amount that is on their BillHighway (Ask VP Finance for this)
+
+-   Confirm with VP Finance that they are good to be removed, and with the President (just so they’re aware)… once that is all good hit “Submit Chapter Confirmation” button, fill out required information
+
+    -   EC doesn’t meet to discuss withdrawals just pick the date that you are confirming their withdrawal on 
+
+When someone reaches out to you about withdrawing OR they withdraw without reaching out to you first: 
+
+-   Ensure you reach out to them, see what their reasoning is for wanting to withdraw
+
+    -   Sometimes they leave a comment that you can read on their CIMS request in MyAlphaGam
+
+<!-- -->
+
+-   Offer to meet with them to talk anything through
+
+-   Have VP Membership and/or VP Wellness meet with them / reach out to them
+
+-   Inform them of options: 
+
+    -   If time is a concern: Inactive Status
+
+    -   If money is a concern: Meeting with Laura (Finance Advisor) and VP Finance 
+
+    -   Long term emergency circumstances: emergency alumna
+
+    -   If there is an extenuating circumstance, loop Pres and Dana (Advisor) in 
